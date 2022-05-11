@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pagecls/static/css/main.0a2550b0.css",
-    "main.js": "/pagecls/static/js/main.61968f28.js",
+    "main.css": "/pagecls/static/css/main.731b4fe0.css",
+    "main.js": "/pagecls/static/js/main.58c22536.js",
     "static/js/787.d93f3d1d.chunk.js": "/pagecls/static/js/787.d93f3d1d.chunk.js",
     "static/media/HelveticaNeue.ttc": "/pagecls/static/media/HelveticaNeue.67d426c3bd180e2ea838.ttc",
     "static/media/Trabajando.svg": "/pagecls/static/media/Trabajando.084870a3d2c180379e81079828b11953.svg",
@@ -34,12 +34,12 @@
     "static/media/Insta.svg": "/pagecls/static/media/Insta.51a167854bc6410dfcfb941835120fe8.svg",
     "index.html": "/pagecls/index.html",
     "static/media/CamionAbout.svg": "/pagecls/static/media/CamionAbout.964c5566a6b646820780f9c4a6911f58.svg",
-    "main.0a2550b0.css.map": "/pagecls/static/css/main.0a2550b0.css.map",
-    "main.61968f28.js.map": "/pagecls/static/js/main.61968f28.js.map",
+    "main.731b4fe0.css.map": "/pagecls/static/css/main.731b4fe0.css.map",
+    "main.58c22536.js.map": "/pagecls/static/js/main.58c22536.js.map",
     "787.d93f3d1d.chunk.js.map": "/pagecls/static/js/787.d93f3d1d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a2550b0.css",
-    "static/js/main.61968f28.js"
+    "static/css/main.731b4fe0.css",
+    "static/js/main.58c22536.js"
   ]
 }
